@@ -1,0 +1,11 @@
+{
+    "settings": {
+      "react": {
+        "version": "detect"
+      }
+    },
+    "extends": [
+      "@mauriora/eslint-config-ts",
+      "plugin:react/recommended"
+    ]
+  }

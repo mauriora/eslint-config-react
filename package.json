@@ -1,0 +1,28 @@
+{
+  "name": "@mauriora/eslint-config-react",
+  "description": "Basic rules for react",
+  "keywords": ["eslint", "eslintconfig", "react"],
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "Mauri-Ora",
+    "email": "dennis.kuhn@kuhn.geek.co.nz"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "main": "dist/index.js",
+  "scripts": {},
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "peerDependencies": {
+    "@mauriora/eslint-config-ts": "*",
+    "@typescript-eslint/eslint-plugin": "^4.31.0",
+    "@typescript-eslint/parser": "^4.31.0",
+    "@typescript-eslint/typescript-estree": "^4.31.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-react": "^7.25.1"
+  }
+}
