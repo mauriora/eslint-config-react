@@ -3,7 +3,7 @@
   "description": "Basic rules for react",
   "keywords": ["eslint", "eslintconfig", "react"],
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "author": {
     "name": "Mauri-Ora",
     "email": "dennis.kuhn@kuhn.geek.co.nz"
